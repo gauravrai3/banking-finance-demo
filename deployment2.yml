@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: banking-finance
-          image: gauravrai1609/insurance-project1:latest1
+          image: gauravrai1609/banking-finance-project1:latest3
           ports:
             - containerPort: 8081
           env:
